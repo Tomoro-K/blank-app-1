@@ -2,7 +2,6 @@
 探索的データ分析（EDA）自動化アプリ
 CSVファイルをアップロードするだけで、データの概要把握を自動で行います。
 """
-
 import streamlit as st
 import pandas as pd
 import numpy as np
